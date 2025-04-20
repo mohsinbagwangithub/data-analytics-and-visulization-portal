@@ -34,8 +34,8 @@ To run this project locally, follow these steps:
     streamlit run app.py
 
 5. **Access the application**:
-    Open a web browser and navigate to `http://localhost:8501` to access the Data
+    Open a web browser and navigate to https://data-analytics-and-visulization-app-gbpwjrvunugwhfihpuatqp.streamlit.app/ to access the Data
 
 **Accessing the Deployed App**
     You can access the deployed app at the following URL:<br>
-    [Data Analytics & Visualization Portal](https://data-analytics-visualization.streamlit.app/)
+    [Data Analytics & Visualization Portal](https://data-analytics-and-visulization-app-gbpwjrvunugwhfihpuatqp.streamlit.app/)
